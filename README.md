@@ -1,8 +1,6 @@
-[![Build Status](https://travis-ci.com/fezproof/homefornow-backend.svg?branch=master)](https://travis-ci.com/fezproof/homefornow-backend)
+# HomeForNow Back-End
 
-# homefornow-backend
-
-> 
+![Travis (.org) branch](https://img.shields.io/travis/fezproof/homefornow-backend/master.svg?style=for-the-badge)
 
 ## About
 
