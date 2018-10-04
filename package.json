@@ -1,18 +1,25 @@
 {
   "name": "homefornow-backend",
   "description": "",
-  "version": "0.0.0",
-  "homepage": "",
+  "version": "2.0.0",
+  "homepage": "https://github.com/fezproof/homefornow-backend#readme",
   "main": "src",
   "keywords": [
     "feathers"
   ],
   "author": {
     "name": "fezproof",
-    "email": "stevebob1997@hotmail.com"
+    "email": "benchidlow1@gmail.com"
   },
   "contributors": [],
-  "bugs": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fezproof/homefornow-backend.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fezproof/homefornow-backend/issues"
+  },
   "directories": {
     "lib": "src",
     "test": "test/"
