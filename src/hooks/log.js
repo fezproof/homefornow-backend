@@ -7,7 +7,7 @@ const logger = require('../logger');
 // To see more detailed messages, uncomment the following line:
 // logger.level = 'debug';
 
-module.exports = (context) => {
+module.exports = () => (context) => {
   // This debugs the service call and a stringified version of the hook context
   // You can customize the message (and logger) to your needs
   logger.debug(`${context.type} app.service('${context.path}').${context.method}()`);
