@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/fezproof/homefornow-backend.svg?branch=master)](https://travis-ci.com/fezproof/homefornow-backend)
+
 # homefornow-backend
 
 > 
