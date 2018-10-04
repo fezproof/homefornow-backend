@@ -1,7 +1,6 @@
 # HomeForNow Back-End
 
-![Travis (.org) branch](https://img.shields.io/travis/fezproof/homefornow-backend/master.svg?style=for-the-badge)
-
+[![Build Status](https://travis-ci.com/fezproof/homefornow-backend.svg?branch=master)](https://travis-ci.com/fezproof/homefornow-backend)
 ## About
 
 This project uses [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.
