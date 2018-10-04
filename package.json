@@ -33,7 +33,8 @@
     "eslint": "eslint src/. test/. --config .eslintrc.json",
     "dev": "nodemon src/",
     "start": "node src/",
-    "mocha": "mocha test/ --recursive --exit"
+    "mocha": "mocha test/ --recursive --exit",
+    "fix": "eslint --fix ."
   },
   "dependencies": {
     "@feathersjs/configuration": "^2.0.4",
